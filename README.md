@@ -31,12 +31,7 @@ Used [DAVID 6.7](https://david-d.ncifcrf.gov)
 
 ### Heatmaps
 <p float="left">
-   <img src='/pictures/heatPCAload_fibro_ipsc.png' width='250' />
    <img src='/pictures/heatPCAload_full_ipsc_eb.png' width='250'>
-</p>
-
-##### Using viridis color package
-<p float='left'>
    <img src='/pictures/heatPCAload_fibro_ipsc_viridis.png' width='250' />
    <img src='/pictures/heatPCAload_fibro_ipsc_magma.png' width='250'>
 </p>
