@@ -14,7 +14,7 @@ Used [DAVID 6.7](https://david-d.ncifcrf.gov)
 ### Pairwise Analysis
 <p float="left">
   <img src='/pictures/scatter_fibro_ipsc.png' width='350' />
-  <img src='/pictures/ebd3_ipsc/scatter_ipsc_ebd31p.png' width='350' />
+  <img src='/pictures/scatter_ipsc_ebd31p.png' width='350' />
 </p>
 
 ### 3D PCAs
@@ -37,8 +37,8 @@ Used [DAVID 6.7](https://david-d.ncifcrf.gov)
 
 ##### Using viridis color package
 <p float='left'>
-   <img src='/pictures/pcaheat_fibro_ipsc_viridis.png' width='250' />
-   <img src='/pictures/pcaheat_fibro_ipsc_magma.png' width='250'>
+   <img src='/pictures/heatPCAload_fibro_ipsc_viridis.png' width='250' />
+   <img src='/pictures/heatPCAload_fibro_ipsc_magma.png' width='250'>
 </p>
 
 ### UHCs
